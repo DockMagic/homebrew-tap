@@ -2,8 +2,7 @@ cask "dockmagic" do
   version "1.1"
   sha256 "5b0a6cfd60ed79dbf07e20f5609924c3486712f7d36873c12cca14d535ced445"
 
-  url "https://github.com/DockMagic/Releases/releases/download/v#{version}/DockMagic-#{version}.dmg",
-      verified: "github.com/DockMagic/Releases/"
+  url "https://github.com/DockMagic/Releases/releases/download/v#{version}/DockMagic-#{version}.dmg"
   name "DockMagic"
   desc "Independent dock with widgets"
   homepage "https://dockmagic.app/"
