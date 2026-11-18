@@ -1,6 +1,6 @@
 cask "dockmagic" do
-  version "1.3"
-  sha256 "ee196c0623ebd0a7371805814627c3bd4f5bdc6ca289016a5aabd0324dd4650f"
+  version "1.4"
+  sha256 "80261517063a7fe2b27d6952c5a216524e214f433f57a2dacf39e26b211cdf06"
 
   url "https://github.com/DockMagic/Releases/releases/download/v#{version}/DockMagic-#{version}.dmg"
   name "DockMagic"
